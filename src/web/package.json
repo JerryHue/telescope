@@ -15,7 +15,7 @@
     "@next/mdx": "^11.1.0",
     "@types/smoothscroll-polyfill": "^0.3.1",
     "@types/yup": "^0.29.11",
-    "dotenv": "^10.0.0",
+    "dotenv": "^14.2.0",
     "formik": "^2.2.6",
     "highlight.js": "11.0.1",
     "jwt-decode": "^3.1.2",
